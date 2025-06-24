@@ -33,7 +33,7 @@ const HeroSection = () => {
               variant="outline" 
               size="lg" 
               className="border-2 border-gradient-to-r from-orange-500 to-red-500 text-gray-300 hover:bg-gradient-to-r hover:from-orange-600/20 hover:to-red-600/20 hover:border-orange-400 px-8 py-4 text-lg rounded-lg font-semibold transition-all duration-300 backdrop-blur-sm bg-gray-800/20 hover:scale-105 hover:shadow-lg hover:shadow-orange-500/20"
-              onClick={() => window.open('https://drive.google.com/file/d/1filZLdoyKK7-yXL1GC5rRwM09HwPScBk/view?usp=drive_link', '_blank')}
+              onClick={() => window.open('https://drive.google.com/file/d/1kXDZV-9CneQkzrWXQB9G5UeCCU6pP92L/view?usp=drive_link', '_blank')}
             >
               My Resume
             </Button>

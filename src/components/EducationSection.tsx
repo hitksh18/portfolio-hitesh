@@ -13,7 +13,7 @@ const EducationSection = () => {
     {
       degree: "Intermediate – MPC",
       institution: "Trividyaa Junior College, Hyderabad", 
-      duration: "2021–2022",
+      duration: "2020–2022",
       cgpa: "8 CGPA"
       
     },
